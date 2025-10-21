@@ -1,2 +1,2 @@
 # exercicios-python1
-execicios de python 
+**execicios** de *python.
